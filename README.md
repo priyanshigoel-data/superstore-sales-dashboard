@@ -57,8 +57,8 @@ This project presents an interactive Power BI dashboard built using the Sample S
 
 ```text
 README.md
-Dashboard.pbix
-dashboard.png
+superstore_dashboard.pbix
+Sales Dashboard.png
 Sample - Superstore.csv
 ```
 
